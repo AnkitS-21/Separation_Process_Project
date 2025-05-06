@@ -1,7 +1,7 @@
 
 # 🌀 Crystal Separation Simulation via Centrifuge
 
-Simulates NaCl crystal separation in a tubular centrifuge using MATLAB. Models laminar flow and particle tracing to analyze sedimentation and separation efficiency. Replicates a COMSOL model with numerical methods and visualizations.
+Simulates Salt crystal separation in a tubular centrifuge using COMSOL multiphysics. Models laminar flow and particle tracing to analyze sedimentation and separation efficiency. Replicates a COMSOL model with numerical methods and visualizations.
 
 ## 📈 Sample Outputs
 
@@ -18,13 +18,8 @@ Simulates NaCl crystal separation in a tubular centrifuge using MATLAB. Models l
    git clone https://github.com/yourusername/crystal-centrifuge-simulation.git
    cd crystal-centrifuge-simulation
    ```
-
-2. Run the MATLAB simulation:
-   ```matlab
-   main_simulation.m
-   ```
-
-3. Check `/figures` for output plots.
+   
+2. Check `/figures` for output plots.
 
 ## 📚 Reference
 
