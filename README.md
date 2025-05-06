@@ -23,4 +23,4 @@ Simulates Salt crystal separation in a tubular centrifuge using COMSOL multiphys
 
 ## 📚 Reference
 
-Final project for the Transport Phenomena course at IIT Gandhinagar.
+Final project for the Separation Process course at IIT Gandhinagar.
