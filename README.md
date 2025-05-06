@@ -15,8 +15,8 @@ Simulates Salt crystal separation in a tubular centrifuge using COMSOL multiphys
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crystal-centrifuge-simulation.git
-   cd crystal-centrifuge-simulation
+   git clone https://github.com/AnkitS-21/Separation_Process_Project.git
+   cd Separation_Process_Project
    ```
    
 2. Check `/figures` for output plots.
